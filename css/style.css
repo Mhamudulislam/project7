@@ -1,0 +1,66 @@
+.header1
+{
+    height: 100px;
+    background-color: black;
+}
+.header2
+{
+    min-height: 10px;
+    background-color: aqua;
+}
+.contaner
+{
+    border: 5px solid red;
+    overflow: hidden;
+}
+.content
+{
+    width: 60%;
+    height: 100px;
+    background-color: aquamarine;
+    float: left;
+}
+.coment
+{
+    width: 30%;
+    height: 100px;
+    background-color: brown;
+    float: right;
+}
+.footer1
+{
+    height: 100px;
+    background-color: yellowgreen;
+}
+footer
+{
+    text-align: center;
+}
+h1
+{
+    display: inline;
+}
+h2
+{
+    display: inline;
+}
+a
+{
+    display: block;
+}
+.box
+{
+    width: 200px;
+    height: 200px;
+}
+.blue
+{
+    border-radius: 50%;
+    background-color: blue;
+    padding: 20px;
+}
+.black
+{
+    padding: 100px ;
+    background-color: black;
+}
